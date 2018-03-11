@@ -1,0 +1,10 @@
+{
+  "name": "script-front-matter-add-aliases-from-slug",
+  "version": "1.0.0",
+  "description": "Simple script to add aliases variable to each file's front matter from slug variable value",
+  "author": "Israel Sotomayor",
+  "license": "MIT",
+  "dependencies": {
+    "gray-matter": "^3.1.1"
+  }
+}
